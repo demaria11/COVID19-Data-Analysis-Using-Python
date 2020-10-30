@@ -1,5 +1,4 @@
-# Project Structure
-
+# COVID-19 Data-Analysis-Using-Python
 ## This project is divided into 4 parts:
 ---
 
